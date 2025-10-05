@@ -19,7 +19,7 @@ This game features a player-controlled fighter and an AI enemy. You can move, ju
 
 ---
 
-> Note: For the single-file version, all code is inside `main.py`. The `assets/` folder is optional if you want to add images or sprite sheets.  
+
 
 ---
 
